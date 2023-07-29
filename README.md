@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I´m Brian</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<img src="img/Brian%20Putallaz%20Full%20stack%20Developer.png" width:"100%">
+<img src="img/BrianPutallazFullstackDeveloper.png" alt="banner">
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrianPutallazExequiel](https://github.com/BrianPutallazExequiel)
 
